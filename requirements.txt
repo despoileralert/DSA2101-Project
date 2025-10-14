@@ -1,0 +1,16 @@
+# core
+jupyter
+nbconvert
+ipykernel
+# data sets
+pydataset
+nycflights13
+# data manipulation
+numpy
+pandas
+# data import
+openpyxl
+xlrd
+# data visualization
+matplotlib
+seaborn
